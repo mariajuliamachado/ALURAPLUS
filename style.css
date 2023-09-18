@@ -1,6 +1,15 @@
-body{
-   background-color:cornsilk
-}
-h1{
-   color:maroon
-}
+ :root {
+    --branco-principal:#4d342e;
+    --cinza-secundario:#167bf7;
+    --botao-azul:#167bf7;
+    --cor-de-fundo:#e0c2a8;
+ }
+ *{
+   margin: 0%;
+   padding: 0%;
+ }
+
+ body{
+   background: var(--cor-de-fundo);
+   color: var(--branco-principal);
+ }
