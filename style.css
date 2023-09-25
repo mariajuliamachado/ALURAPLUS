@@ -1,8 +1,8 @@
  :root {
-    --branco-principal:#4d342e;
-    --cinza-secundario:#167bf7;
+    --branco-principal:#ffffff;
+    --cinza-secundario:#C0c0c0;
     --botao-azul:#167bf7;
-    --cor-de-fundo:#e0c2a8;
+    --cor-de-fundo:#000000;
  }
  *{
    margin: 0%;
